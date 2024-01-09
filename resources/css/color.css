@@ -1,0 +1,78 @@
+.color-headline {
+	background-color: #17a2b8 !important;
+}
+
+.border-color-theme {
+	border-color: #17a2b8 !important;
+}
+
+.color-theme {
+	color: #17a2b8 !important;
+}
+
+.text-theme {
+	color: #17a2b8 !important;
+}
+
+.btn-theme {
+	background-color: #17a2b8 !important;
+}
+
+.bg-theme {
+	background-color: #17a2b8 !important;
+}
+
+.bg-theme-gradient {
+	background: rgb(23,162,184) !important;
+  background: -moz-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: -webkit-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17a2b8",endColorstr="#17b8a6",GradientType=1) !important; 
+}
+
+.btn-theme-gradient {
+	background: rgb(23,162,184) !important;
+  background: -moz-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: -webkit-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17a2b8",endColorstr="#17b8a6",GradientType=1) !important; 
+}
+
+.btn-outline-theme {
+	border-color: #17a2b8 !important;
+	color: #17a2b8 !important;
+}
+
+.btn-outline-theme-gradient {
+	border-color: #17a2b8 !important;
+	color: #17a2b8 !important;
+}
+
+.btn-outline-theme-gradient:hover {
+	background: rgb(23,162,184) !important;
+  background: -moz-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: -webkit-linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  background: linear-gradient(90deg, rgba(23,162,184,1) 0%, rgba(23,175,184,1) 50%, rgba(23,184,166,1) 100%) !important;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#17a2b8",endColorstr="#17b8a6",GradientType=1) !important; 
+	color: #eee !important;
+}
+
+#tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+	color: #17a2b8 !important;
+	background-color: transparent;
+	border-color: transparent transparent #17a2b8 !important;
+	border-bottom: 4px solid !important;
+	font-size: 20px;
+	font-weight: bold;
+}
+#tabs .nav-tabs .nav-link {
+	border: 1px solid transparent;
+	border-top-left-radius: .25rem;
+	border-top-right-radius: .25rem;
+	color: #5a5a5a !important;
+	font-size: 20px;
+}
+
+#tabs .nav-tabs .nav-link.active {
+	color: #17a2b8 !important;
+}
